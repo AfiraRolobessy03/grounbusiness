@@ -1,4 +1,4 @@
-Source ,Relation,Target
+Source,Relation,Target
 ApplicationService,FlowRelationship,ApplicationProcess
 ApplicationService,AssociationRelationship,ApplicationProcess
 ApplicationService,TriggeringRelationship,ApplicationProcess
